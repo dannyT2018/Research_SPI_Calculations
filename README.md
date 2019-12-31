@@ -38,7 +38,7 @@ SPI Value | Condictions
       * Recommended Packages:
           * GDAL
           * Climate-Indices
-            * **PLEASE NOTE**: Due to installation conflicts, We had to directed download the Climate-Indices Package. As a result, we did not create or change the any scripts in the Climate_indices folder. The Original Source can be found at https://github.com/monocongo/climate_indices.
+            * **PLEASE NOTE**: Due to installation conflicts, We had to directed download the Climate-Indices Package. As a result, we did not create or change any scripts in the Climate_indices folder. The Original Source can be found at https://github.com/monocongo/climate_indices.
   * Precipitation Data 
       * Example precipitation set from CHRIPS: ftp://ftp.chg.ucsb.edu/pub/org/chg/products/CHIRPS-2.0/global_daily/tifs/p05/
   * Shapefile of the desired region
